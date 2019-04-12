@@ -21,31 +21,24 @@
 ### Author: Billy Bunn
 
 ### Links and Resources
-#### Submission PR's
-1. Message Queue Server 
+Four repositories were required for this lab assignment. The submission pull request, Travis.CI build, and actual code repository for each are listed below.
+#### 1. Message Queue Server 
    * [PR](https://github.com/401-advanced-javascript-billybunn/lab-19-server/pull/1)
    * [Travis](https://travis-ci.com/401-advanced-javascript-billybunn/lab-19-server)
-2. Message Queue Logger 
+   * [Repo](https://github.com/401-advanced-javascript-billybunn/lab-19-server)
+#### 2. Message Queue Logger 
    * [PR](https://github.com/401-advanced-javascript-billybunn/lab-19-logger/pull/1)
    * [Travis](https://travis-ci.com/401-advanced-javascript-billybunn/lab-19-logger)
-3. File Writer
+   * [Repo](https://github.com/401-advanced-javascript-billybunn/lab-19-logger)
+#### 3. File Writer
    * [PR](https://github.com/401-advanced-javascript-billybunn/lab-19-file-writer/pull/1)
    * [Travis](https://travis-ci.com/401-advanced-javascript-billybunn/lab-19-file-writer)
-4. API Server
+   * [Repo](https://github.com/401-advanced-javascript-billybunn/lab-19-file-writer)
+#### 4. API Server
    * [PR](https://github.com/401-advanced-javascript-billybunn/lab-19-api-server/pull/1)
    * [Travis](https://travis-ci.com/401-advanced-javascript-billybunn/lab-19-api-server)
+   * [Repo](https://github.com/401-advanced-javascript-billybunn/lab-19-api-server)
 
-* [travis][2]
-<!-- (when applicable) -->
-* [back-end][3]
-<!-- (when applicable) -->
-* [front-end][4]
-
-#### Documentation
-<!-- API assignments only -->
-<!-- * [swagger][5] -->
-<!-- (All assignments) -->
-<!-- * [jsdoc][6] -->
 
 ### Modules
 #### `modulename.js`
