@@ -16,12 +16,25 @@
 <!-- jsdoc-->
 [6]: heroku-link/docs 
 
-## Project Name
+## Socket.io - Message Queue Server
 
-### Author: YOUR NAME
+### Author: Billy Bunn
 
 ### Links and Resources
-* [PR][1]
+#### Submission PR's
+1. Message Queue Server 
+   * [PR](https://github.com/401-advanced-javascript-billybunn/lab-19-server/pull/1)
+   * [Travis](https://travis-ci.com/401-advanced-javascript-billybunn/lab-19-server)
+2. Message Queue Logger 
+   * [PR](https://github.com/401-advanced-javascript-billybunn/lab-19-logger/pull/1)
+   * [Travis](https://travis-ci.com/401-advanced-javascript-billybunn/lab-19-logger)
+3. File Writer
+   * [PR](https://github.com/401-advanced-javascript-billybunn/lab-19-file-writer/pull/1)
+   * [Travis](https://travis-ci.com/401-advanced-javascript-billybunn/lab-19-file-writer)
+4. API Server
+   * [PR](https://github.com/401-advanced-javascript-billybunn/lab-19-api-server/pull/1)
+   * [Travis](https://travis-ci.com/401-advanced-javascript-billybunn/lab-19-api-server)
+
 * [travis][2]
 <!-- (when applicable) -->
 * [back-end][3]
@@ -30,9 +43,9 @@
 
 #### Documentation
 <!-- API assignments only -->
-* [swagger][5]
+<!-- * [swagger][5] -->
 <!-- (All assignments) -->
-* [jsdoc][6]
+<!-- * [jsdoc][6] -->
 
 ### Modules
 #### `modulename.js`
